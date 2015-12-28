@@ -5,6 +5,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "unity-n-core": "github:shadowmint/unity-n-core#0.0.1",
     "unity-n-native": ".."
   },
   "devDependencies": {

@@ -1,0 +1,6 @@
+[submodule "deps/libnpp"]
+	path = deps/libnpp
+	url = doug@shadowmint.xen.prgmr.com:repo/c/libnpp.git
+[submodule "deps/libtinyxml2"]
+	path = deps/libtinyxml2
+	url = git@github.com:leethomason/tinyxml2.git
